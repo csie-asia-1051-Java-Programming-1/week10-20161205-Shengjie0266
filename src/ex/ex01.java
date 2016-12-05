@@ -4,7 +4,7 @@
  * Date: 2016/12/05
  * Author: 1050210XX 周永振老師
  */
-
+import 
 public class ex01 {
 
 	public static void main(String[] args) {
